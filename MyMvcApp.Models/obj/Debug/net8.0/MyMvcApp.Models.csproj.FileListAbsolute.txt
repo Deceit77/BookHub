@@ -1,0 +1,12 @@
+/home/vecna/Desktop/DotNet/MyMvcApp/MyMvcApp.Models/bin/Debug/net8.0/MyMvcApp.Models.deps.json
+/home/vecna/Desktop/DotNet/MyMvcApp/MyMvcApp.Models/bin/Debug/net8.0/MyMvcApp.Models.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/MyMvcApp.Models/bin/Debug/net8.0/MyMvcApp.Models.pdb
+/home/vecna/Desktop/DotNet/MyMvcApp/MyMvcApp.Models/obj/Debug/net8.0/MyMvcApp.Models.csproj.AssemblyReference.cache
+/home/vecna/Desktop/DotNet/MyMvcApp/MyMvcApp.Models/obj/Debug/net8.0/MyMvcApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+/home/vecna/Desktop/DotNet/MyMvcApp/MyMvcApp.Models/obj/Debug/net8.0/MyMvcApp.Models.AssemblyInfoInputs.cache
+/home/vecna/Desktop/DotNet/MyMvcApp/MyMvcApp.Models/obj/Debug/net8.0/MyMvcApp.Models.AssemblyInfo.cs
+/home/vecna/Desktop/DotNet/MyMvcApp/MyMvcApp.Models/obj/Debug/net8.0/MyMvcApp.Models.csproj.CoreCompileInputs.cache
+/home/vecna/Desktop/DotNet/MyMvcApp/MyMvcApp.Models/obj/Debug/net8.0/MyMvcApp.Models.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/MyMvcApp.Models/obj/Debug/net8.0/refint/MyMvcApp.Models.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/MyMvcApp.Models/obj/Debug/net8.0/MyMvcApp.Models.pdb
+/home/vecna/Desktop/DotNet/MyMvcApp/MyMvcApp.Models/obj/Debug/net8.0/ref/MyMvcApp.Models.dll

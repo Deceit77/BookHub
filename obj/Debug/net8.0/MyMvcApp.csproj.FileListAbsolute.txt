@@ -1,0 +1,585 @@
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/appsettings.Development.json
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/appsettings.json
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/MyMvcApp
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/MyMvcApp.deps.json
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/MyMvcApp.runtimeconfig.json
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/MyMvcApp.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/MyMvcApp.pdb
+/home/vecna/Desktop/DotNet/MyMvcApp/obj/Debug/net8.0/MyMvcApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/vecna/Desktop/DotNet/MyMvcApp/obj/Debug/net8.0/MyMvcApp.AssemblyInfoInputs.cache
+/home/vecna/Desktop/DotNet/MyMvcApp/obj/Debug/net8.0/MyMvcApp.AssemblyInfo.cs
+/home/vecna/Desktop/DotNet/MyMvcApp/obj/Debug/net8.0/MyMvcApp.csproj.CoreCompileInputs.cache
+/home/vecna/Desktop/DotNet/MyMvcApp/obj/Debug/net8.0/MyMvcApp.MvcApplicationPartsAssemblyInfo.cache
+/home/vecna/Desktop/DotNet/MyMvcApp/obj/Debug/net8.0/MyMvcApp.RazorAssemblyInfo.cache
+/home/vecna/Desktop/DotNet/MyMvcApp/obj/Debug/net8.0/MyMvcApp.RazorAssemblyInfo.cs
+/home/vecna/Desktop/DotNet/MyMvcApp/obj/Debug/net8.0/MyMvcApp.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/obj/Debug/net8.0/refint/MyMvcApp.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/obj/Debug/net8.0/MyMvcApp.pdb
+/home/vecna/Desktop/DotNet/MyMvcApp/obj/Debug/net8.0/MyMvcApp.genruntimeconfig.cache
+/home/vecna/Desktop/DotNet/MyMvcApp/obj/Debug/net8.0/ref/MyMvcApp.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/Azure.Core.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/Azure.Identity.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/Humanizer.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/System.CodeDom.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/System.Composition.Convention.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/System.Composition.Hosting.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/System.Composition.Runtime.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/System.Drawing.Common.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/System.Memory.Data.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/System.Runtime.Caching.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/System.Security.Permissions.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/System.Text.Json.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/System.Windows.Extensions.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/obj/Debug/net8.0/MyMvcApp.csproj.AssemblyReference.cache
+/home/vecna/Desktop/DotNet/MyMvcApp/obj/Debug/net8.0/MyMvcApp.csproj.Up2Date
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/MyMvcApp.staticwebassets.runtime.json
+/home/vecna/Desktop/DotNet/MyMvcApp/obj/Debug/net8.0/staticwebassets.build.json
+/home/vecna/Desktop/DotNet/MyMvcApp/obj/Debug/net8.0/staticwebassets.development.json
+/home/vecna/Desktop/DotNet/MyMvcApp/obj/Debug/net8.0/staticwebassets/msbuild.MyMvcApp.Microsoft.AspNetCore.StaticWebAssets.props
+/home/vecna/Desktop/DotNet/MyMvcApp/obj/Debug/net8.0/staticwebassets/msbuild.build.MyMvcApp.props
+/home/vecna/Desktop/DotNet/MyMvcApp/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MyMvcApp.props
+/home/vecna/Desktop/DotNet/MyMvcApp/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MyMvcApp.props
+/home/vecna/Desktop/DotNet/MyMvcApp/obj/Debug/net8.0/staticwebassets.pack.json
+/home/vecna/Desktop/DotNet/MyMvcApp/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/vecna/Desktop/DotNet/MyMvcApp/obj/Debug/net8.0/scopedcss/bundle/MyMvcApp.styles.css
+/home/vecna/Desktop/DotNet/MyMvcApp/obj/Debug/net8.0/scopedcss/projectbundle/MyMvcApp.bundle.scp.css
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/appsettings.Development.json
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/appsettings.json
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/MyMvcApp.staticwebassets.runtime.json
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/MyMvcApp
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/MyMvcApp.deps.json
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/MyMvcApp.runtimeconfig.json
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/MyMvcApp.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/MyMvcApp.pdb
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/Azure.Core.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/Azure.Identity.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/Humanizer.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/System.CodeDom.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/System.Composition.Convention.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/System.Composition.Hosting.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/System.Composition.Runtime.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/System.Drawing.Common.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/System.Memory.Data.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/System.Runtime.Caching.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/System.Security.Permissions.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/System.Text.Json.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/System.Windows.Extensions.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/obj/Debug/net8.0/MyMvcApp.csproj.AssemblyReference.cache
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/obj/Debug/net8.0/MyMvcApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/obj/Debug/net8.0/MyMvcApp.AssemblyInfoInputs.cache
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/obj/Debug/net8.0/MyMvcApp.AssemblyInfo.cs
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/obj/Debug/net8.0/MyMvcApp.csproj.CoreCompileInputs.cache
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/obj/Debug/net8.0/MyMvcApp.MvcApplicationPartsAssemblyInfo.cache
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/obj/Debug/net8.0/MyMvcApp.RazorAssemblyInfo.cache
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/obj/Debug/net8.0/MyMvcApp.RazorAssemblyInfo.cs
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/obj/Debug/net8.0/staticwebassets.build.json
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/obj/Debug/net8.0/staticwebassets.development.json
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/obj/Debug/net8.0/staticwebassets/msbuild.MyMvcApp.Microsoft.AspNetCore.StaticWebAssets.props
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/obj/Debug/net8.0/staticwebassets/msbuild.build.MyMvcApp.props
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MyMvcApp.props
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MyMvcApp.props
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/obj/Debug/net8.0/staticwebassets.pack.json
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/obj/Debug/net8.0/scopedcss/bundle/MyMvcApp.styles.css
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/obj/Debug/net8.0/scopedcss/projectbundle/MyMvcApp.bundle.scp.css
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/obj/Debug/net8.0/MyMvcApp.csproj.Up2Date
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/obj/Debug/net8.0/MyMvcApp.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/obj/Debug/net8.0/refint/MyMvcApp.dll
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/obj/Debug/net8.0/MyMvcApp.pdb
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/obj/Debug/net8.0/MyMvcApp.genruntimeconfig.cache
+/home/vecna/Desktop/untitled folder 4/MyMvcApp/obj/Debug/net8.0/ref/MyMvcApp.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/appsettings.Development.json
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/appsettings.json
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/MyMvcApp.staticwebassets.runtime.json
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/MyMvcApp
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/MyMvcApp.deps.json
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/MyMvcApp.runtimeconfig.json
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/MyMvcApp.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/MyMvcApp.pdb
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/Azure.Core.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/Azure.Identity.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/Humanizer.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/System.CodeDom.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/System.Composition.Convention.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/System.Composition.Hosting.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/System.Composition.Runtime.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/System.Drawing.Common.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/System.Memory.Data.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/System.Runtime.Caching.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/System.Security.Permissions.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/System.Text.Json.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/System.Windows.Extensions.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/home/vecna/Desktop/MyMvcApp/obj/Debug/net8.0/MyMvcApp.csproj.AssemblyReference.cache
+/home/vecna/Desktop/MyMvcApp/obj/Debug/net8.0/MyMvcApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/vecna/Desktop/MyMvcApp/obj/Debug/net8.0/MyMvcApp.AssemblyInfoInputs.cache
+/home/vecna/Desktop/MyMvcApp/obj/Debug/net8.0/MyMvcApp.AssemblyInfo.cs
+/home/vecna/Desktop/MyMvcApp/obj/Debug/net8.0/MyMvcApp.csproj.CoreCompileInputs.cache
+/home/vecna/Desktop/MyMvcApp/obj/Debug/net8.0/MyMvcApp.MvcApplicationPartsAssemblyInfo.cache
+/home/vecna/Desktop/MyMvcApp/obj/Debug/net8.0/MyMvcApp.RazorAssemblyInfo.cache
+/home/vecna/Desktop/MyMvcApp/obj/Debug/net8.0/MyMvcApp.RazorAssemblyInfo.cs
+/home/vecna/Desktop/MyMvcApp/obj/Debug/net8.0/MyMvcApp.sourcelink.json
+/home/vecna/Desktop/MyMvcApp/obj/Debug/net8.0/staticwebassets.build.json
+/home/vecna/Desktop/MyMvcApp/obj/Debug/net8.0/staticwebassets.development.json
+/home/vecna/Desktop/MyMvcApp/obj/Debug/net8.0/staticwebassets/msbuild.MyMvcApp.Microsoft.AspNetCore.StaticWebAssets.props
+/home/vecna/Desktop/MyMvcApp/obj/Debug/net8.0/staticwebassets/msbuild.build.MyMvcApp.props
+/home/vecna/Desktop/MyMvcApp/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MyMvcApp.props
+/home/vecna/Desktop/MyMvcApp/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MyMvcApp.props
+/home/vecna/Desktop/MyMvcApp/obj/Debug/net8.0/staticwebassets.pack.json
+/home/vecna/Desktop/MyMvcApp/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/vecna/Desktop/MyMvcApp/obj/Debug/net8.0/scopedcss/bundle/MyMvcApp.styles.css
+/home/vecna/Desktop/MyMvcApp/obj/Debug/net8.0/scopedcss/projectbundle/MyMvcApp.bundle.scp.css
+/home/vecna/Desktop/MyMvcApp/obj/Debug/net8.0/MyMvcApp.csproj.Up2Date
+/home/vecna/Desktop/MyMvcApp/obj/Debug/net8.0/MyMvcApp.dll
+/home/vecna/Desktop/MyMvcApp/obj/Debug/net8.0/refint/MyMvcApp.dll
+/home/vecna/Desktop/MyMvcApp/obj/Debug/net8.0/MyMvcApp.pdb
+/home/vecna/Desktop/MyMvcApp/obj/Debug/net8.0/MyMvcApp.genruntimeconfig.cache
+/home/vecna/Desktop/MyMvcApp/obj/Debug/net8.0/ref/MyMvcApp.dll
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/MyMvcApp.DataAccess/bin/Debug/net8.0/MyMvcApp.DataAccess.deps.json
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/MyMvcApp.DataAccess/bin/Debug/net8.0/MyMvcApp.DataAccess.runtimeconfig.json
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/MyMvcApp.DataAccess/obj/MyMvcApp.DataAccess.csproj.nuget.dgspec.json
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/MyMvcApp.DataAccess/obj/project.assets.json
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/MyMvcApp.Models/bin/Debug/net8.0/MyMvcApp.Models.deps.json
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/MyMvcApp.Models/obj/MyMvcApp.Models.csproj.nuget.dgspec.json
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/MyMvcApp.Models/obj/project.assets.json
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/MyMvcApp.Utility/bin/Debug/net8.0/MyMvcApp.Utility.deps.json
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/MyMvcApp.Utility/obj/MyMvcApp.Utility.csproj.nuget.dgspec.json
+/home/vecna/Desktop/MyMvcApp/bin/Debug/net8.0/MyMvcApp.Utility/obj/project.assets.json
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/appsettings.Development.json
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/appsettings.json
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/MyMvcApp.DataAccess/bin/Debug/net8.0/MyMvcApp.DataAccess.deps.json
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/MyMvcApp.DataAccess/bin/Debug/net8.0/MyMvcApp.DataAccess.runtimeconfig.json
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/MyMvcApp.DataAccess/obj/MyMvcApp.DataAccess.csproj.nuget.dgspec.json
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/MyMvcApp.DataAccess/obj/project.assets.json
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/MyMvcApp.Models/bin/Debug/net8.0/MyMvcApp.Models.deps.json
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/MyMvcApp.Models/obj/MyMvcApp.Models.csproj.nuget.dgspec.json
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/MyMvcApp.Models/obj/project.assets.json
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/MyMvcApp.Utility/bin/Debug/net8.0/MyMvcApp.Utility.deps.json
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/MyMvcApp.Utility/obj/MyMvcApp.Utility.csproj.nuget.dgspec.json
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/MyMvcApp.Utility/obj/project.assets.json
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/MyMvcApp.staticwebassets.runtime.json
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/MyMvcApp
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/MyMvcApp.deps.json
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/MyMvcApp.runtimeconfig.json
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/MyMvcApp.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/MyMvcApp.pdb
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/Azure.Core.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/Azure.Identity.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/Humanizer.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/System.CodeDom.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/System.Composition.Convention.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/System.Composition.Hosting.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/System.Composition.Runtime.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/System.Drawing.Common.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/System.Memory.Data.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/System.Runtime.Caching.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/System.Security.Permissions.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/System.Text.Json.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/System.Windows.Extensions.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/home/vecna/Desktop/dProject/MyMvcApp/obj/Debug/net8.0/MyMvcApp.csproj.AssemblyReference.cache
+/home/vecna/Desktop/dProject/MyMvcApp/obj/Debug/net8.0/MyMvcApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/vecna/Desktop/dProject/MyMvcApp/obj/Debug/net8.0/MyMvcApp.AssemblyInfoInputs.cache
+/home/vecna/Desktop/dProject/MyMvcApp/obj/Debug/net8.0/MyMvcApp.AssemblyInfo.cs
+/home/vecna/Desktop/dProject/MyMvcApp/obj/Debug/net8.0/MyMvcApp.csproj.CoreCompileInputs.cache
+/home/vecna/Desktop/dProject/MyMvcApp/obj/Debug/net8.0/MyMvcApp.MvcApplicationPartsAssemblyInfo.cache
+/home/vecna/Desktop/dProject/MyMvcApp/obj/Debug/net8.0/MyMvcApp.RazorAssemblyInfo.cache
+/home/vecna/Desktop/dProject/MyMvcApp/obj/Debug/net8.0/MyMvcApp.RazorAssemblyInfo.cs
+/home/vecna/Desktop/dProject/MyMvcApp/obj/Debug/net8.0/MyMvcApp.sourcelink.json
+/home/vecna/Desktop/dProject/MyMvcApp/obj/Debug/net8.0/staticwebassets.build.json
+/home/vecna/Desktop/dProject/MyMvcApp/obj/Debug/net8.0/staticwebassets.development.json
+/home/vecna/Desktop/dProject/MyMvcApp/obj/Debug/net8.0/staticwebassets/msbuild.MyMvcApp.Microsoft.AspNetCore.StaticWebAssets.props
+/home/vecna/Desktop/dProject/MyMvcApp/obj/Debug/net8.0/staticwebassets/msbuild.build.MyMvcApp.props
+/home/vecna/Desktop/dProject/MyMvcApp/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MyMvcApp.props
+/home/vecna/Desktop/dProject/MyMvcApp/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MyMvcApp.props
+/home/vecna/Desktop/dProject/MyMvcApp/obj/Debug/net8.0/staticwebassets.pack.json
+/home/vecna/Desktop/dProject/MyMvcApp/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/vecna/Desktop/dProject/MyMvcApp/obj/Debug/net8.0/scopedcss/bundle/MyMvcApp.styles.css
+/home/vecna/Desktop/dProject/MyMvcApp/obj/Debug/net8.0/scopedcss/projectbundle/MyMvcApp.bundle.scp.css
+/home/vecna/Desktop/dProject/MyMvcApp/obj/Debug/net8.0/MyMvcApp.csproj.Up2Date
+/home/vecna/Desktop/dProject/MyMvcApp/obj/Debug/net8.0/MyMvcApp.dll
+/home/vecna/Desktop/dProject/MyMvcApp/obj/Debug/net8.0/refint/MyMvcApp.dll
+/home/vecna/Desktop/dProject/MyMvcApp/obj/Debug/net8.0/MyMvcApp.pdb
+/home/vecna/Desktop/dProject/MyMvcApp/obj/Debug/net8.0/MyMvcApp.genruntimeconfig.cache
+/home/vecna/Desktop/dProject/MyMvcApp/obj/Debug/net8.0/ref/MyMvcApp.dll
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/Areas/bin/Debug/net8.0/MyMvcApp.DataAccess.deps.json
+/home/vecna/Desktop/dProject/MyMvcApp/bin/Debug/net8.0/Areas/bin/Debug/net8.0/MyMvcApp.DataAccess.runtimeconfig.json
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/Areas/bin/Debug/net8.0/MyMvcApp.DataAccess.deps.json
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/Areas/bin/Debug/net8.0/MyMvcApp.DataAccess.runtimeconfig.json
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/MyMvcApp.DataAccess/bin/Debug/net8.0/MyMvcApp.DataAccess.deps.json
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/MyMvcApp.DataAccess/bin/Debug/net8.0/MyMvcApp.DataAccess.runtimeconfig.json
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/MyMvcApp.DataAccess/obj/MyMvcApp.DataAccess.csproj.nuget.dgspec.json
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/MyMvcApp.DataAccess/obj/project.assets.json
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/MyMvcApp.Models/bin/Debug/net8.0/MyMvcApp.Models.deps.json
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/MyMvcApp.Models/obj/MyMvcApp.Models.csproj.nuget.dgspec.json
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/MyMvcApp.Models/obj/project.assets.json
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/MyMvcApp.Utility/bin/Debug/net8.0/MyMvcApp.Utility.deps.json
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/MyMvcApp.Utility/obj/MyMvcApp.Utility.csproj.nuget.dgspec.json
+/home/vecna/Desktop/DotNet/MyMvcApp/bin/Debug/net8.0/MyMvcApp.Utility/obj/project.assets.json
+/home/vecna/Desktop/DotNet/MyMvcApp/obj/Debug/net8.0/MyMvcApp.sourcelink.json

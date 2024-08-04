@@ -1,0 +1,44 @@
+@model MyMvcApp.Models.Product
+
+<form method="post">
+<Input asp-for="Id" hidden/>
+    <div class="border p-3 mt-4"> 
+        <div class="row pb-2">
+            <h2 class="text-light">Delete Product</h2>
+            <hr/>
+        </div>
+        <div class="mb-3 row">
+            <label asp-for="Title" class="form-label"></label>
+            <input asp-for="Title" disabled class="form-control" />
+        </div>
+        <div class="mb-3 row">
+            <label asp-for="Description" class="form-label"></label>
+            <input asp-for="Description" disabled class="form-control" />
+        </div>
+         <div class="mb-3 row">
+            <label asp-for="ISBN" class="form-label"></label>
+            <input asp-for="ISBN" disabled class="form-control" />
+        </div>
+         <div class="mb-3 row">
+            <label asp-for="Author" class="form-label"></label>
+            <input asp-for="Author" disabled class="form-control" />
+        </div>
+         <div class="mb-3 row">
+            <label asp-for="ListPrice" class="form-label"></label>
+            <input asp-for="ListPrice" disabled class="form-control" />
+        </div>
+         <div class="mb-3 row">
+            <label asp-for="Price" class="form-label"></label>
+            <input asp-for="Price" disabled class="form-control" />
+        </div>
+        <div class="mb-3 row">
+            <label asp-for="Price50" class="form-label"></label>
+            <input asp-for="Price50" disabled class="form-control" />
+        </div>
+        <div class="mb-3 row">
+            <label asp-for="Price100" class="form-label"></label>
+            <input asp-for="Price100" disabled class="form-control" />
+        </div>
+        <button type="submit" class="btn btn-primary" style="width:150px">Delete record</button>
+    </div>
+</form>
