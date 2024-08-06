@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "0D0HJL558N0=",
+  "dgSpecHash": "79M+dbhO88g=",
   "success": true,
   "projectFilePath": "/home/vecna/Desktop/DotNet/MyMvcApp/MyMvcApp.csproj",
   "expectedPackageFiles": [
     "/home/vecna/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",
     "/home/vecna/.nuget/packages/azure.identity/1.10.3/azure.identity.1.10.3.nupkg.sha512",
+    "/home/vecna/.nuget/packages/datatables.net/2.1.3/datatables.net.2.1.3.nupkg.sha512",
     "/home/vecna/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
+    "/home/vecna/.nuget/packages/jquery/1.7.0/jquery.1.7.0.nupkg.sha512",
     "/home/vecna/.nuget/packages/microsoft.aspnetcore.authentication.abstractions/2.2.0/microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "/home/vecna/.nuget/packages/microsoft.aspnetcore.authentication.core/2.2.0/microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
     "/home/vecna/.nuget/packages/microsoft.aspnetcore.authorization/2.2.0/microsoft.aspnetcore.authorization.2.2.0.nupkg.sha512",
@@ -102,12 +104,5 @@
     "/home/vecna/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "/home/vecna/.nuget/packages/system.windows.extensions/6.0.0/system.windows.extensions.6.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
-    }
-  ]
+  "logs": []
 }

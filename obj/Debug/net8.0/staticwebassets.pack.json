@@ -1,6 +1,14 @@
 {
   "Files": [
     {
+      "Id": "/home/vecna/.nuget/packages/datatables.net/2.1.3/contentFiles/any/any/wwwroot/js/dataTables.js",
+      "PackagePath": "staticwebassets/js/dataTables.js"
+    },
+    {
+      "Id": "/home/vecna/.nuget/packages/datatables.net/2.1.3/contentFiles/any/any/wwwroot/js/dataTables.min.js",
+      "PackagePath": "staticwebassets/js/dataTables.min.js"
+    },
+    {
       "Id": "/home/vecna/Desktop/DotNet/MyMvcApp/obj/Debug/net8.0/scopedcss/projectbundle/MyMvcApp.bundle.scp.css",
       "PackagePath": "staticwebassets/MyMvcApp.bundle.scp.css"
     },
@@ -13,8 +21,32 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
-      "Id": "/home/vecna/Desktop/DotNet/MyMvcApp/wwwroot/images/product/4589ae8c-850c-4da5-a933-e45f97ddf045.jpg",
-      "PackagePath": "staticwebassets/images/product/4589ae8c-850c-4da5-a933-e45f97ddf045.jpg"
+      "Id": "/home/vecna/Desktop/DotNet/MyMvcApp/wwwroot/images/product/315ecd28-8809-4966-8ecb-4a3223e52fef.jpg",
+      "PackagePath": "staticwebassets/images/product/315ecd28-8809-4966-8ecb-4a3223e52fef.jpg"
+    },
+    {
+      "Id": "/home/vecna/Desktop/DotNet/MyMvcApp/wwwroot/images/product/4c87ad20-2c67-4dc5-8c4a-a4e968d0d354.JPG",
+      "PackagePath": "staticwebassets/images/product/4c87ad20-2c67-4dc5-8c4a-a4e968d0d354.JPG"
+    },
+    {
+      "Id": "/home/vecna/Desktop/DotNet/MyMvcApp/wwwroot/images/product/7a2cc139-cfa2-4922-b278-b36ede44b119.jpg",
+      "PackagePath": "staticwebassets/images/product/7a2cc139-cfa2-4922-b278-b36ede44b119.jpg"
+    },
+    {
+      "Id": "/home/vecna/Desktop/DotNet/MyMvcApp/wwwroot/images/product/8c548311-b67a-4511-a82b-1a597ac0f074.jpg",
+      "PackagePath": "staticwebassets/images/product/8c548311-b67a-4511-a82b-1a597ac0f074.jpg"
+    },
+    {
+      "Id": "/home/vecna/Desktop/DotNet/MyMvcApp/wwwroot/images/product/c7ce45e7-ec06-49ae-b9e6-54138d655a1b.jpg",
+      "PackagePath": "staticwebassets/images/product/c7ce45e7-ec06-49ae-b9e6-54138d655a1b.jpg"
+    },
+    {
+      "Id": "/home/vecna/Desktop/DotNet/MyMvcApp/wwwroot/images/product/fb78000d-20da-424d-b2d0-f8c1c9c2d5de.jpg",
+      "PackagePath": "staticwebassets/images/product/fb78000d-20da-424d-b2d0-f8c1c9c2d5de.jpg"
+    },
+    {
+      "Id": "/home/vecna/Desktop/DotNet/MyMvcApp/wwwroot/js/product.js",
+      "PackagePath": "staticwebassets/js/product.js"
     },
     {
       "Id": "/home/vecna/Desktop/DotNet/MyMvcApp/wwwroot/js/site.js",
