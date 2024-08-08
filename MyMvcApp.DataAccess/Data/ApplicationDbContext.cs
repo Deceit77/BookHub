@@ -1,8 +1,9 @@
 ﻿﻿using MyMvcApp.Models;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 namespace MyMvcApp.DataAccess.Data
 {
-public class ApplicationDbContext:DbContext
+public class ApplicationDbContext: IdentityDbContext
 {
 public ApplicationDbContext(DbContextOptions<ApplicationDbContext>options): base(options)
 {
@@ -10,8 +11,11 @@ public ApplicationDbContext(DbContextOptions<ApplicationDbContext>options): base
 }
 public DbSet<Category> Categories {get; set;}
 public DbSet<Product> Products {get; set;}
+public DbSet<ApplicationUser> ApplicationUsers {get; set;}
 protected override void OnModelCreating(ModelBuilder modelBuilder)
 {
+
+     base.OnModelCreating(modelBuilder);
     modelBuilder.Entity<Category>().HasData(
       new Category{CategoryId=1,Name="Action",DisplayOrder=1},
       new Category{CategoryId=2,Name="SciFIi",DisplayOrder=2},

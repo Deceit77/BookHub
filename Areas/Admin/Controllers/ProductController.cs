@@ -4,12 +4,15 @@ using MyMvcApp.Models;
 using MyMvcApp.DataAccess.Repository.IRepository;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using MyMvcApp.Models.ViewModels;
+using MyMvcApp.Utility;
+using Microsoft.AspNetCore.Authorization;
 using System.Collections.Generic;
 using System.Linq;
 
 namespace MyMvcApp.Areas.Admin.Controllers
 {
     [Area("Admin")]
+     [Authorize (Roles =SD.Role_Admin)]
     public class ProductController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
